@@ -1,4 +1,4 @@
-DOM-pig-game
+DOM-Dice-Game
 
 GAME RULES:
 
